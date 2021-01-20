@@ -4,8 +4,10 @@ use nannou::{
     prelude::*,
 };
 
+/// # test
 /// ```
 /// let a = 100;
+/// true
 /// ```
 
 struct Model {}
